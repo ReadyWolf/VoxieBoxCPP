@@ -118,5 +118,3 @@ The compiled VXCpp.dll is public domain any application you make using VXCpp.dll
 # Contact information
 
 VxCPP / VX++ is maintained by Matthew Vecchio for Voxon Photonics. Contact me at [Matt@Voxon.co] for feature requests, code suggestions. bug reports, feedback, showing off cool stuff you have done or anything else you can contact me at [Matt@Voxon.co]
-
-- 
